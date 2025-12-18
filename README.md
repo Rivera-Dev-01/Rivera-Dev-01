@@ -45,7 +45,7 @@
 
 <br />
 
-## :tools: Technical Arsenal
+## 🛠️ Technical Arsenal
 
 | Domain | Technologies |
 | :--- | :--- |
