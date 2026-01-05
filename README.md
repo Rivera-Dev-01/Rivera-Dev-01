@@ -1,17 +1,14 @@
 <div align="center">
   
-  # Hi there, I'm Miggy! :wave:
+  # Hi there, I'm Miggy! 👋
   
   <h3>Aspiring Backend AI Engineer | BSIT Student @ Jose Rizal University</h3>
-
   <p>
     I build intelligent systems that combine <b>Robust Backend Engineering</b> with <b>State-of-the-Art AI</b>. 
     I specialize in moving beyond simple API calls, focusing on RAG (Retrieval-Augmented Generation), 
     Model Fine-Tuning, and Neuro-Symbolic architectures.
   </p>
-
   <br />
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,22 +20,24 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_&_Fine--Tuning-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_%26_Fine--Tuning-FF5722?style=for-the-badge" />
   
 </div>
 
 <br />
 
-## :rocket: Featured AI Engineering Projects
+## 🚀 Featured AI Engineering Projects
 
-### :brain: **Rule VII - AI Architect**
+### 🧠 **Rule VII - AI Architect**
 > *A specialized Architectural Mentor AI using RAG & Fine-Tuned Llama 3.*
+
 * **The Tech:** Fine-tuned **Llama 3.1 8B** (using Unsloth/LoRA) combined with a **RAG pipeline** (LlamaParse + Supabase pgvector).
 * **The Engineering:** Implemented a custom ingestion script to parse PDF building codes into vector embeddings, allowing the AI to cite specific legal codes while maintaining a "Senior Architect" persona through fine-tuning.
 * **Stack:** Python, FastAPI, RunPod, Next.js.
 
-### :ocean: **Hydra - HackTheFlood 2025**
+### 🌊 **Hydra - HackTheFlood 2025**
 > *Neuro-Symbolic AI system for detecting corruption in flood control projects.*
+
 * **The Tech:** **Deterministic RAG** using Google Gemini + Sentinel Hub Satellite Imagery.
 * **The Engineering:** Built a "Hybrid Brain" architecture. Uses strict statistical baselines (symbolic logic) to ground the LLM, preventing hallucinations when analyzing project costs. Features a tiered validation system (Python logic + AI judgment).
 * **Stack:** Python, Flask, Google Vertex AI/Gemini, React.
@@ -56,12 +55,27 @@
 
 <br />
 
-## :bar_chart: GitHub Stats
+## 📊 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivera-Dev-01&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivera-Dev-01&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+
+```text
+🎯 Building Production-Grade AI Systems
+🔥 Fine-Tuning LLMs with Real-World Data  
+⚡ Scaling RAG Pipelines for Enterprise Use
+🌐 Exploring Neuro-Symbolic AI Architectures
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rivera-Dev-01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
+
+### 💡 What I'm Working On
+
+- 🏗️ **Rule VII**: Fine-tuned Llama 3.1 8B for architectural code compliance
+- 🌊 **Hydra AI**: Neuro-symbolic corruption detection system
+- 📚 Building custom RAG pipelines with pgvector & Supabase
+- 🚀 Exploring multi-agent AI systems with LangChain
 
 <br />
 
